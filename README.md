@@ -2,6 +2,8 @@
 ---
 Official implementation of **Organ-DETR: Organ Detection via Transformers**.
 
+Accepted for IEEE Transactions on Medical Imaging (TMI), 2025.
+
 ## Code
 Coming soon ...
 
